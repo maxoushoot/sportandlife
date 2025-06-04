@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nom": "Tour Eiffel",
+    "descriptionCourte": "Symbole de Paris, vue panoramique.",
+    "description": "La tour Eiffel est une tour de fer de 330 mètres située à Paris. C'est l'un des monuments les plus visités au monde.",
+    "lat": 48.8584,
+    "lon": 2.2945
+  },
+  {
+    "id": 2,
+    "nom": "Mont Saint-Michel",
+    "descriptionCourte": "Abbaye et village médiéval sur un rocher.",
+    "description": "Le Mont Saint-Michel est un site exceptionnel par son architecture et sa baie spectaculaire qui subit les plus grandes marées d'Europe continentale.",
+    "lat": 48.6361,
+    "lon": -1.5115
+  },
+  {
+    "id": 3,
+    "nom": "Château de Chenonceau",
+    "descriptionCourte": "Joyau de la Renaissance enjambe le Cher.",
+    "description": "Construit au XVIe siècle, le château de Chenonceau est célèbre pour son architecture élégante et ses jardins remarquables.",
+    "lat": 47.3247,
+    "lon": 1.0701
+  }
+]
